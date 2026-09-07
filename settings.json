@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Jay111222333.aternos.me",
-    "port": 14868,
-    "version": false,
+    "ip": "GlowcraftMC.aternos.me",
+    "port": 15291,
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
