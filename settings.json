@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "GlowcraftMC.aternos.me",
-    "port": 15291,
+    "ip": "glowcraftmc.minekeep.gg",
+    "port": 25565,
     "version": "1.21.1",
     "try-creative": false
   },
