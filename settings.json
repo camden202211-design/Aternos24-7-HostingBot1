@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "mcraftre.minehut.gg",
-    "port": 25565,
+    "ip": "glow.sadhost.com",
+    "port": 28012,
     "version": "1.21.1",
     "try-creative": false
   },
