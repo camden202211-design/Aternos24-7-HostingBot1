@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "glowcraftmc.minekeep.gg",
+    "ip": "mcraftre.minehut.gg",
     "port": 25565,
     "version": "1.21.1",
     "try-creative": false
